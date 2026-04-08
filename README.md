@@ -1,5 +1,5 @@
 <h1 align="center">👨‍💻 Sobre mim
-  ```txt
+  
 💻 Desenvolvedor em evolução
 🚀 Focado em aprendizado contínuo
 🧠 Explorando novas tecnologias
