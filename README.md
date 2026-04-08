@@ -64,8 +64,12 @@
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=xXyLeR&show_icons=true&theme=dracula&border_radius=10" height="150" />
-  <img src="https://streak-stats.demolab.com?user=xXyLeR&theme=dracula&border_radius=10" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=xXyLeR&show_icons=true&theme=dracula" height="150" />
+  <img src="https://streak-stats.demolab.com?user=xXyLeR&theme=dracula" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xXyLeR&layout=compact&theme=dracula" height="150" />
 </p>
 
 ###
