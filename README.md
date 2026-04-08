@@ -1,16 +1,8 @@
-<h2 align="center">👨‍💻 Sobre mim</h2>
+<h2 align="center">Sobre mim</h2>
 
 <p align="center">
-Desenvolvedor em constante evolução, com foco em código limpo e soluções eficientes.<br>
-Sempre explorando novas tecnologias e aprimorando habilidades através da prática.
-</p>
-
-<p align="center">
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-</p>
-
-<p align="center">
-<sub>Construindo, aprendendo e evoluindo todos os dias.</sub>
+Desenvolvedor orientado à simplicidade, eficiência e boas práticas.<br>
+Evoluindo continuamente através da construção e aprendizado constante.
 </p>
 
 
