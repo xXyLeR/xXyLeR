@@ -1,7 +1,10 @@
-<h1 align="center">💻 Desenvolvedor em evolução
-🚀 Focado em aprendizado contínuo
-🧠 Explorando novas tecnologias
-🔥 Construindo projetos e ganhando experiência</h1>
+<h1 align="center">👨‍💻 Sobre mim
+
+Desenvolvedor focado em criar soluções simples, eficientes e bem estruturadas.
+Tenho interesse em tecnologia, aprendizado contínuo e construção de projetos que realmente agregam valor.
+
+Busco evoluir constantemente, aprimorando minhas habilidades e explorando novas ferramentas no ecossistema de desenvolvimento.
+</h1>
 
 
 ###
