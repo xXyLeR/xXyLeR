@@ -1,4 +1,12 @@
-<h1 align="center">Bao? 👍🏻</h1>
+<h1 align="center">## 👨‍💻 Sobre mim
+
+```txt
+💻 Desenvolvedor em evolução
+🚀 Focado em aprendizado contínuo
+🧠 Explorando novas tecnologias
+🔥 Construindo projetos e ganhando experiência
+```
+</h1>
 
 ###
 
