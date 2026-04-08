@@ -4,7 +4,6 @@
 🚀 Focado em aprendizado contínuo
 🧠 Explorando novas tecnologias
 🔥 Construindo projetos e ganhando experiência
-```
 </h1>
 
 ###
