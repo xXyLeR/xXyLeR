@@ -1,8 +1,9 @@
-## 👨‍💻 Sobre mim
+<h1 align="center">## 👨‍💻 Sobre mim
 
 💻 Desenvolvedor apaixonado por tecnologia
 🚀 Sempre aprendendo algo novo
 🔥 Em busca de evolução constante
+</h1>
 
 
 ###
