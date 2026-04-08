@@ -1,10 +1,17 @@
-<h1 align="center">👨‍💻 Sobre mim
+<h2 align="center">👨‍💻 Sobre mim</h2>
 
-Desenvolvedor focado em criar soluções simples, eficientes e bem estruturadas.
-Tenho interesse em tecnologia, aprendizado contínuo e construção de projetos que realmente agregam valor.
+<p align="center">
+Desenvolvedor em constante evolução, com foco em código limpo e soluções eficientes.<br>
+Sempre explorando novas tecnologias e aprimorando habilidades através da prática.
+</p>
 
-Busco evoluir constantemente, aprimorando minhas habilidades e explorando novas ferramentas no ecossistema de desenvolvimento.
-</h1>
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</p>
+
+<p align="center">
+<sub>Construindo, aprendendo e evoluindo todos os dias.</sub>
+</p>
 
 
 ###
